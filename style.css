@@ -1,0 +1,16 @@
+body{
+   background-color: aqua; 
+
+}
+.one{
+    background-color: blueviolet;
+}
+.two{
+    background-color: brown;
+}
+.three{
+    background-color: pink;
+}
+body{
+    background-color: rgb(148, 227, 247);
+}
